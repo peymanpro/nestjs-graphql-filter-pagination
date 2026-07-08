@@ -1,3 +1,15 @@
+
+## Live Demo
+
+### GraphQL Endpoint
+
+```text
+https://nestjs-graphql-filter-pagination-production.up.railway.app/graphql
+```
+
+Open the endpoint in your browser to explore the API using Apollo Sandbox.
+
+
 #  NestJS GraphQL Filtering & Pagination API
 
 [![NestJS](https://img.shields.io/badge/NestJS-10.x-red)](https://nestjs.com/)
